@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Universe_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 4327037169656737908, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: 6587924756149485571, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: 138025340118265170, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: -743063851515462780, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: -5089693144901177725, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: -2165520409638818504, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: 1559570457902349962, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: 2896498731723174231, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: -1522085719579921853, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: 8304009664235236826, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: -5565653234650544395, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: -6528718438470294364, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: -112080149386317712, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: 8825923555390139574, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: -5483933270630518685, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    - {fileID: -1703130795822804207, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5483933270630518685, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: -5565653234650544395, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: 8304009664235236826, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: -1522085719579921853, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: -112080149386317712, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: -6528718438470294364, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: -1703130795822804207, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: 8825923555390139574, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: 6587924756149485571, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: 138025340118265170, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: 1559570457902349962, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: -5089693144901177725, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: 2896498731723174231, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: 4327037169656737908, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: -743063851515462780, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  - {fileID: -2165520409638818504, guid: fdb81c9d8fcb3574db1f8653a4f099b3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - monochrome_tilemap_transparent_packed_192_208_16_16
+  - monochrome_tilemap_transparent_packed_176_192_16_16
+  - monochrome_tilemap_transparent_packed_160_224_16_16
+  - monochrome_tilemap_transparent_packed_160_208_16_16
+  - monochrome_tilemap_transparent_packed_176_224_16_16
+  - monochrome_tilemap_transparent_packed_176_208_16_16
+  - monochrome_tilemap_transparent_packed_192_224_16_16
+  - monochrome_tilemap_transparent_packed_192_192_16_16
+  - monochrome_tilemap_packed_160_224_16_16
+  - monochrome_tilemap_packed_176_192_16_16
+  - monochrome_tilemap_packed_192_208_16_16
+  - monochrome_tilemap_packed_176_224_16_16
+  - monochrome_tilemap_packed_192_224_16_16
+  - monochrome_tilemap_packed_160_208_16_16
+  - monochrome_tilemap_packed_176_208_16_16
+  - monochrome_tilemap_packed_192_192_16_16
+  m_RenderDataMap: {}
+  m_Tag: Universe_Atlas
+  m_IsVariant: 0
